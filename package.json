@@ -1,0 +1,23 @@
+{
+  "name": "starting-with-typescript-exercise",
+  "version": "1.0.0",
+  "description": "Learning typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "trans": "tsc hello-world.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashwary-Jharbade/starting-with-typescript-exercise.git"
+  },
+  "author": "Ashwary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashwary-Jharbade/starting-with-typescript-exercise/issues"
+  },
+  "homepage": "https://github.com/Ashwary-Jharbade/starting-with-typescript-exercise#readme",
+  "dependencies": {
+    "typescript": "^4.4.3"
+  }
+}
