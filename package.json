@@ -5,7 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "trans": "tsc hello-world.ts"
+    "trans": "tsc hello-world.ts",
+    "tsconfig": "tsc --init",
+    "compile-ts": "tsc",
+    "start": "tsc && node ./src/js/index.js"
   },
   "repository": {
     "type": "git",
